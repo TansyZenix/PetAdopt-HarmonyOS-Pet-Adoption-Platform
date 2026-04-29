@@ -1,0 +1,18 @@
+[
+  {
+    "_id": "sample_pet_001",
+    "adopt_condition": "有稳定住所，接受定期回访，有一定的养宠经验。",
+    "adopt_way": "联系平台预约看宠物，需携带有效身份证件，签订领养协议。",
+    "age": "2岁",
+    "icon": "https://placeholder-image-url.com/cat.jpg",
+    "jieZhong": "已接种",
+    "jueYu": "已绝育",
+    "pet_class": "家养宠物",
+    "pet_describe": "温顺的英国短毛猫，银渐层花色，圆圆的脸庞，大大的眼睛，非常可爱。",
+    "pet_location": "示例城市",
+    "quChong": "已驱虫",
+    "sex": "男孩",
+    "story": "原主人因工作调动无法继续饲养，定期驱虫疫苗齐全，性格温顺亲人。",
+    "title": "示例宠物"
+  }
+]

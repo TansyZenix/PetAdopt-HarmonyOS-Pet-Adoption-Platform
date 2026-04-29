@@ -1,0 +1,14 @@
+[
+  {
+    "_id": "sample_shop_001",
+    "name": "示例狗粮",
+    "price": "￥59.9",
+    "url": "https://placeholder-image-url.com/dog_food.jpg"
+  },
+  {
+    "_id": "sample_shop_002",
+    "name": "示例猫砂",
+    "price": "￥29.9",
+    "url": "https://placeholder-image-url.com/cat_litter.jpg"
+  }
+]

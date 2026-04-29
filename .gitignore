@@ -1,0 +1,25 @@
+# Node
+server/node_modules/
+server/package-lock.json
+
+# IDE
+.idea/
+*.iml
+local.properties
+.clang-format
+code-linter.json5
+
+# HarmonyOS
+harmonyos-app/entry/src/test/
+harmonyos-app/entry/src/ohosTest/
+harmonyos-app/.idea/
+harmonyos-app/local.properties
+harmonyos-app/*.lock.json5
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment
+.env
+.env.local

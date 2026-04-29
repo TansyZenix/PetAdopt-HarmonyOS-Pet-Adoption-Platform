@@ -1,0 +1,9 @@
+[
+  {
+    "_id": "sample_hospital_001",
+    "picture": "https://placeholder-image-url.com/hospital.jpg",
+    "text1": "示例宠物医院（总院）",
+    "text2": "地址：示例市示例区示例路100号",
+    "text3": "联系方式：(028) 8888-8888"
+  }
+]
